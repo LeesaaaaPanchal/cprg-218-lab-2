@@ -91,6 +91,32 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
+
+## Classic Brownies
+
+Ingredients:
+- 1 cup unsalted butter, melted
+- 2 cups white sugar
+- 1 cup brown sugar
+- 4 large eggs
+- 1 tbsp vanilla extract
+- 1 cup all-purpose flour
+- 1 cup cocoa powder
+- 1 tsp baking powder
+- 1 tsp salt
+- 1 cup semisweet chocolate chips
+
+Instructions:
+1. Preheat oven to 350°F (175°C). Grease a 9x13-inch baking pan.
+2. In a large bowl, combine melted butter, white sugar, and brown sugar. Mix well.
+3. Beat in the eggs one at a time, then stir in vanilla extract.
+4. In a separate bowl, whisk together flour, cocoa powder, baking powder, and salt.
+5. Gradually blend the dry ingredients into the wet mixture.
+6. Stir in the chocolate chips.
+7. Spread the batter evenly into the prepared baking pan.
+8. Bake for 25 to 30 minutes, or until a toothpick inserted into the center comes out with a few moist crumbs.
+9. Allow to cool in the pan on a wire rack before cutting into squares.
+
 ### Chocolate Chip Cookies
 
 Ingredients:
